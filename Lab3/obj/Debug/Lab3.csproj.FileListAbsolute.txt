@@ -1,0 +1,47 @@
+D:\Учёба\2 курс\Программирование\Лабы\Lab3\Lab3\Lab3\bin\Debug\Lab3.exe.config
+D:\Учёба\2 курс\Программирование\Лабы\Lab3\Lab3\Lab3\bin\Debug\Lab3.exe
+D:\Учёба\2 курс\Программирование\Лабы\Lab3\Lab3\Lab3\bin\Debug\Lab3.pdb
+D:\Учёба\2 курс\Программирование\Лабы\Lab3\Lab3\Lab3\obj\Debug\Lab3.csprojResolveAssemblyReference.cache
+D:\Учёба\2 курс\Программирование\Лабы\Lab3\Lab3\Lab3\obj\Debug\Lab3.Properties.Resources.resources
+D:\Учёба\2 курс\Программирование\Лабы\Lab3\Lab3\Lab3\obj\Debug\Lab3.UserControl1.resources
+D:\Учёба\2 курс\Программирование\Лабы\Lab3\Lab3\Lab3\obj\Debug\Lab3.csproj.GenerateResource.Cache
+D:\Учёба\2 курс\Программирование\Лабы\Lab3\Lab3\Lab3\obj\Debug\Lab3.exe
+D:\Учёба\2 курс\Программирование\Лабы\Lab3\Lab3\Lab3\obj\Debug\Lab3.pdb
+D:\Учёба\2 курс\Программирование\Лабы\Lab3\Lab3\Lab3\obj\Debug\Lab3.Form1.resources
+D:\Учёба\2 курс\Программирование\Лабы\Lab3\Lab3\Lab3\obj\Debug\Lab3.red_button.resources
+E:\prog\Lab3\Lab3\Lab3\bin\Debug\Lab3.exe.config
+E:\prog\Lab3\Lab3\Lab3\obj\Debug\Lab3.exe
+E:\prog\Lab3\Lab3\Lab3\obj\Debug\Lab3.pdb
+E:\prog\Lab3\Lab3\Lab3\bin\Debug\Lab3.exe
+E:\prog\Lab3\Lab3\Lab3\bin\Debug\Lab3.pdb
+E:\prog\Lab3\Lab3\Lab3\obj\Debug\Lab3.csprojResolveAssemblyReference.cache
+E:\prog\Lab3\Lab3\Lab3\obj\Debug\Lab3.red_button.resources
+E:\prog\Lab3\Lab3\Lab3\obj\Debug\Lab3.Form1.resources
+E:\prog\Lab3\Lab3\Lab3\obj\Debug\Lab3.Properties.Resources.resources
+E:\prog\Lab3\Lab3\Lab3\obj\Debug\Lab3.UserControl1.resources
+E:\prog\Lab3\Lab3\Lab3\obj\Debug\Lab3.csproj.GenerateResource.Cache
+C:\Users\Home\Desktop\ганжа\онф\прогание\Lab3\Lab3\Lab3\bin\Debug\Lab3.exe.config
+C:\Users\Home\Desktop\ганжа\онф\прогание\Lab3\Lab3\Lab3\obj\Debug\Lab3.exe
+C:\Users\Home\Desktop\ганжа\онф\прогание\Lab3\Lab3\Lab3\obj\Debug\Lab3.pdb
+C:\Users\Home\Desktop\ганжа\онф\прогание\Lab4\Lab4\Lab3\bin\Debug\Lab3.exe.config
+C:\Users\Home\Desktop\ганжа\онф\прогание\Lab4\Lab4\Lab3\obj\Debug\Lab3.exe
+C:\Users\Home\Desktop\ганжа\онф\прогание\Lab4\Lab4\Lab3\obj\Debug\Lab3.pdb
+C:\Users\Home\Desktop\ганжа\онф\прогание\Lab4\Lab4\Lab3\bin\Debug\Lab3.exe
+C:\Users\Home\Desktop\ганжа\онф\прогание\Lab4\Lab4\Lab3\bin\Debug\Lab3.pdb
+C:\Users\Home\Desktop\ганжа\онф\прогание\Lab4\Lab4\Lab3\obj\Debug\Lab3.csprojResolveAssemblyReference.cache
+C:\Users\Home\Desktop\ганжа\онф\прогание\Lab4\Lab4\Lab3\obj\Debug\Lab3.red_button.resources
+C:\Users\Home\Desktop\ганжа\онф\прогание\Lab4\Lab4\Lab3\obj\Debug\Lab3.Form1.resources
+C:\Users\Home\Desktop\ганжа\онф\прогание\Lab4\Lab4\Lab3\obj\Debug\Lab3.Properties.Resources.resources
+C:\Users\Home\Desktop\ганжа\онф\прогание\Lab4\Lab4\Lab3\obj\Debug\Lab3.UserControl1.resources
+C:\Users\Home\Desktop\ганжа\онф\прогание\Lab4\Lab4\Lab3\obj\Debug\Lab3.csproj.GenerateResource.Cache
+C:\Users\Home\Desktop\ганжа\онф\прогание\4_ready\Lab4\Lab3\bin\Debug\Lab3.exe.config
+C:\Users\Home\Desktop\ганжа\онф\прогание\4_ready\Lab4\Lab3\obj\Debug\Lab3.exe
+C:\Users\Home\Desktop\ганжа\онф\прогание\4_ready\Lab4\Lab3\obj\Debug\Lab3.pdb
+C:\Users\Home\Desktop\ганжа\онф\прогание\4_ready\Lab4\Lab3\bin\Debug\Lab3.exe
+C:\Users\Home\Desktop\ганжа\онф\прогание\4_ready\Lab4\Lab3\bin\Debug\Lab3.pdb
+C:\Users\Home\Desktop\ганжа\онф\прогание\4_ready\Lab4\Lab3\obj\Debug\Lab3.csprojResolveAssemblyReference.cache
+C:\Users\Home\Desktop\ганжа\онф\прогание\4_ready\Lab4\Lab3\obj\Debug\Lab3.red_button.resources
+C:\Users\Home\Desktop\ганжа\онф\прогание\4_ready\Lab4\Lab3\obj\Debug\Lab3.Form1.resources
+C:\Users\Home\Desktop\ганжа\онф\прогание\4_ready\Lab4\Lab3\obj\Debug\Lab3.Properties.Resources.resources
+C:\Users\Home\Desktop\ганжа\онф\прогание\4_ready\Lab4\Lab3\obj\Debug\Lab3.UserControl1.resources
+C:\Users\Home\Desktop\ганжа\онф\прогание\4_ready\Lab4\Lab3\obj\Debug\Lab3.csproj.GenerateResource.Cache
